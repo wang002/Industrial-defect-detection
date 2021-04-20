@@ -8,12 +8,10 @@ Deep learning application·Industrial defect detection
 内容包括：
 
          1 软件安装包以及安装说明。   
+               
+         2 教程工程案例。    
          
-         2 软件介绍。      
-         
-         3 教程工程案例。    
-         
-         4 检测接口案例说明（haclon，C++）。
+         3 检测接口案例说明（haclon，C++）。
 
 
 安装需求：
@@ -23,7 +21,8 @@ Deep learning application·Industrial defect detection
  
 [安装最新的NVIDIA驱动](https://www.nvidia.cn/geforce/drivers)
 
-教程视频网站地址：
+[教程视频网站地址](https://account.bilibili.com/account/home)
+
 软件账户登录：
           用户名：test
           密码：123456
