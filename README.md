@@ -14,8 +14,12 @@ Deep learning application·Industrial defect detection
          3 教程工程案例。    
          
          4 检测接口案例说明（haclon，C++）。
+
+
+安装需求：
          
-运行需求：windows10,NVIDIA GPU 1060 及以上，16G内存。
+         1 windows10,NVIDIA GPU 1060 及以上，16G内存。
+         2 安装最新的NVIDIA驱动（https://www.nvidia.cn/geforce/drivers/）
 
 教程视频网站地址：
 
