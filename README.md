@@ -17,6 +17,8 @@ Deep learning application·Industrial defect detection
          
 运行需求：windows10,NVIDIA GPU 1060 及以上，16G内存。
 
+教程视频网站地址：
+
 软件账户登录：
           用户名：test
           密码：123456
