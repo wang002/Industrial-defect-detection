@@ -19,10 +19,11 @@ Deep learning application·Industrial defect detection
 安装需求：
          
          1 windows10,NVIDIA GPU 1060 及以上，16G内存。
-         2 [安装最新的NVIDIA驱动](https://www.nvidia.cn/geforce/drivers)
+         2 安装最新的NVIDIA驱动
+ 
+[安装最新的NVIDIA驱动](https://www.nvidia.cn/geforce/drivers)
 
 教程视频网站地址：
-
 软件账户登录：
           用户名：test
           密码：123456
