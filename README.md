@@ -1,11 +1,18 @@
 # Industrial-defect-detection
 Deep learning application·Industrial defect detection
+
 深度学习应用在工业缺陷检测
+
 由南京势创智能科技有限公司提供。
 
-内容包括：1 软件安装包以及安装说明。
+内容包括：
+
+         1 软件安装包以及安装说明。
+         
          2 软件介绍。
+         
          3 教程工程案例。
+         
          4 检测接口案例说明（haclon，C++）。
          
 运行需求：windows10,NVIDIA GPU 1060 及以上，16G内存。
