@@ -7,9 +7,12 @@ Deep learning application·Industrial defect detection
 
 内容包括：
 
-         1 软件安装包以及安装说明。        
+         1 软件安装包以及安装说明。   
+         
          2 软件介绍。      
-         3 教程工程案例。       
+         
+         3 教程工程案例。    
+         
          4 检测接口案例说明（haclon，C++）。
          
 运行需求：windows10,NVIDIA GPU 1060 及以上，16G内存。
@@ -24,7 +27,9 @@ Deep learning application·Industrial defect detection
 盈利模式：
 
          1 本软件训练，检测以及简单的技术咨询均免费。
+         
          2 如果您需要一些定制化的服务则需要收费。（包括：整体检测自动化方案，打光方案，检测方案，标注数据，检测加速等）
+         
          3 商务合作请联系：徐明 18914267806
 
 如果您觉得我们的软件还行，帮忙点一下星星，谢谢！
