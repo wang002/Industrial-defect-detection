@@ -7,10 +7,13 @@ Deep learning application·Industrial defect detection
          2 软件介绍。
          3 教程工程案例
          4 检测接口案例说明（haclon，C++）
+         
 运行需求：windows10,NVIDIA GPU 1060 及以上，16G内存。
+
 软件账户登录：
           用户名：test
           密码：123456
+
 本软件目前处于测试阶段，如果您有什么意见可以提交issus，或者联系我们。
 联系方式：王谨怡 17621818501
 
