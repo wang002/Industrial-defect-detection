@@ -21,7 +21,7 @@ Deep learning application·Industrial defect detection
  
 [安装最新的NVIDIA驱动](https://www.nvidia.cn/geforce/drivers)
 
-[教程视频网站地址](https://account.bilibili.com/account/home)
+[教程视频网站地址](https://space.bilibili.com/276129022/channel/detail?cid=185455)
 
 软件账户登录：
 
