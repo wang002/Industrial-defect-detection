@@ -29,7 +29,7 @@ Deep learning application·Industrial defect detection
           密码：123456
 
 本软件目前处于测试阶段，如果您有什么意见可以提交issus，或者联系我们。
-联系方式：王 17621818501
+联系方式：王 1362681420@qq.com
 
 盈利模式：
 
@@ -37,7 +37,7 @@ Deep learning application·Industrial defect detection
          
          2 如果您需要一些定制化的服务则需要收费。（包括：整体检测自动化方案，打光方案，检测方案，标注数据，检测加速等）
          
-         3 商务合作请联系：徐 18914267806
+         3 商务合作请联系：徐 
 
 如果您觉得我们的软件还行，帮忙点一下星星，谢谢！
 
